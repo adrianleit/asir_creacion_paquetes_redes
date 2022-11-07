@@ -1,0 +1,13 @@
+Paquete TCP:
+Longitud encabezado
+Puerto origen y destino
+Checksum
+Flags
+Sequence Number
+Acknolegment number
+
+Paquete IP:
+TTL
+Ip source
+IP destino
+Checksum
